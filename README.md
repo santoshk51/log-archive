@@ -1,7 +1,9 @@
 # Log Archive Tool
 
 A simple CLI tool to archive logs on a set schedule by compressing them into `.tar.gz` files.  
-This helps keep the system clean while preserving logs for future reference.
+This helps keep the system clean while preserving logs for future reference.  
+
+📌 Project idea from [roadmap.sh](https://roadmap.sh/projects/log-archive-tool)
 
 ## Features
 - Compresses logs from a given directory into a `.tar.gz` file
